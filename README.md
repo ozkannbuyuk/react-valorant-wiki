@@ -2,6 +2,10 @@
    React - Valorant Wiki
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-valorant-wiki/assets/111967202/b918a266-f769-4a41-b920-67cb823ffea0" width="700" />
 </p>
